@@ -1,0 +1,12 @@
+{
+  "name": "node_docker_app",
+  "version": "1.0.0",
+  "description": "App node.js simples executada em container docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Caroline Silva Freitas",
+  "license": "ISC"
+}
